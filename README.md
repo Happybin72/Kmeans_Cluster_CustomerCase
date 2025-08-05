@@ -94,7 +94,8 @@ TF-IDF 기반 키워드 추출
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '신입사원, 연수, 커뮤니케이션, 임원'와 관련된 이슈와 니즈가 강하게 나타납니다.
 
-![image.png](attachment:a865016e-ff13-4abc-833d-42ecb9da9b14:image.png)
+<img width="746" height="590" alt="0" src="https://github.com/user-attachments/assets/94545d4b-b952-499d-be1f-7ca09ef05db4" />
+
 
 📊 [클러스터 1] 분석 결과
 🔑 주요 키워드 (Top 10):
@@ -113,7 +114,8 @@ TF-IDF 기반 키워드 추출
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '개발, 신입사원, 연수, 리더십, 강화'와 관련된 이슈와 니즈가 강하게 나타납니다.
 
-![image.png](attachment:a09511f6-3708-4424-802f-8a6cb7202e11:image.png)
+<img width="746" height="590" alt="1" src="https://github.com/user-attachments/assets/8ed2acfd-c422-4abe-bb01-d5e320606289" />
+
 
 📊 [클러스터 2] 분석 결과
 🔑 주요 키워드 (Top 10):
@@ -131,7 +133,8 @@ TF-IDF 기반 키워드 추출
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '신입사원, 연수, 강화, 리더십, 승진'와 관련된 이슈와 니즈가 강하게 나타납니다.
 
-![image.png](attachment:cd657e08-5867-4669-9fd2-a5bd0a76dfc9:image.png)
+<img width="746" height="590" alt="2" src="https://github.com/user-attachments/assets/ec02f015-3778-4116-bd4c-af95a22dc6cc" />
+
 
 📊 [클러스터 3] 분석 결과
 🔑 주요 키워드 (Top 10):
@@ -150,7 +153,7 @@ TF-IDF 기반 키워드 추출
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '연수, 강화, 리더십, 신입사원, 영업'와 관련된 이슈와 니즈가 강하게 나타납니다.
 
-![image.png](attachment:99b065ea-8cef-493d-a44c-5780da031ddd:image.png)
+<img width="746" height="590" alt="3" src="https://github.com/user-attachments/assets/27e318f3-380f-4950-ad8b-61690e766fa5" />
 
 📊 [클러스터 4] 분석 결과
 🔑 주요 키워드 (Top 10):
@@ -162,7 +165,8 @@ TF-IDF 기반 키워드 추출
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '승진, 신입사원, 연수'와 관련된 이슈와 니즈가 강하게 나타납니다.
 
-![image.png](attachment:92482989-9246-4b67-923a-1f7336eeedce:image.png)
+<img width="746" height="590" alt="4" src="https://github.com/user-attachments/assets/1fd9ce86-7163-43a4-908d-4bf40f1204b2" />
+
 
 📊 [클러스터 5] 분석 결과
 🔑 주요 키워드 (Top 10):
@@ -185,7 +189,9 @@ TF-IDF 기반 키워드 추출
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '강화, 영업, 개발, 커뮤니케이션, 관리자'와 관련된 이슈와 니즈가 강하게 나타납니다.
 
-![image.png](attachment:d08f13d9-e8f7-4ed6-aca2-b17d6a7568d2:image.png)
+
+<img width="746" height="590" alt="6" src="https://github.com/user-attachments/assets/af4f3737-323b-4e34-be5b-dc3ec76c9241" />
+
 
 📊 [클러스터 7] 분석 결과
 🔑 주요 키워드 (Top 10):
@@ -197,7 +203,8 @@ TF-IDF 기반 키워드 추출
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '인사, 평가, 관리자'와 관련된 이슈와 니즈가 강하게 나타납니다.
 
-![image.png](attachment:e3273d8e-3a97-40bb-b797-c1a803f3a340:image.png)
+<img width="746" height="590" alt="7" src="https://github.com/user-attachments/assets/e6ca744d-fcc3-49d8-ae3e-53bd64bd5f04" />
+
 
 📊 [클러스터 8] 분석 결과
 🔑 주요 키워드 (Top 10):
@@ -210,7 +217,8 @@ TF-IDF 기반 키워드 추출
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '영업, 강화, 관리자, 개발'와 관련된 이슈와 니즈가 강하게 나타납니다.
 
-![image.png](attachment:a9080302-e415-4ddb-82a1-69c9218e2a64:image.png)
+<img width="746" height="590" alt="8" src="https://github.com/user-attachments/assets/0c0532f6-a0c7-4a70-bb45-afedcbbdd933" />
+
 
 📊 [클러스터 9] 분석 결과
 🔑 주요 키워드 (Top 10):
@@ -223,5 +231,6 @@ TF-IDF 기반 키워드 추출
 
 🧩 고객 니즈 요약:
 이 클러스터의 고객은 '커뮤니케이션, 영업, 강화, 신입사원, 연수'와 관련된 이슈와 니즈가 강하게 나타납니다.
-![image.png](attachment:2c1b757a-49b5-4b33-9284-c1555769d0d3:image.png)
+<img width="746" height="590" alt="9" src="https://github.com/user-attachments/assets/8220bdc1-102c-4a74-9208-566913df0ff2" />
+
 
