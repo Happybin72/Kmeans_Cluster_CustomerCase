@@ -42,7 +42,10 @@
 
 > 👉 우리는 SOM → 시각적 이해, FCM → 마케팅 세분화를 위해 둘 다 실행하여 비교할 수 있습니다.
 >
-><img width="779" height="546" alt="output" src="https://github.com/user-attachments/assets/ee26d2e4-6100-4d4c-901b-92b9003cbab7" />
+
+
+# K-Means 클러스터링 결과
+<img width="779" height="546" alt="output" src="https://github.com/user-attachments/assets/ee26d2e4-6100-4d4c-901b-92b9003cbab7" />
 
  
  
